@@ -8,9 +8,21 @@
 \usepackage{luatextra}
 \setmainfont{Times New Roman}
 \setmonofont{Courier New}
-\usepackage[left=3cm,right=1cm,
+\usepackage[left=3cm,right=1.5cm,
     top=1.5cm,bottom=2cm,bindingoffset=0cm]{geometry}
 \providecommand\No{\char"2116}%{№}%
+% \usepackage{sectsty}
+% \changefontsizes[21pt]{14pt}
+% \sectionfont{\fontsize{14}{14}\selectfont}
+
+\usepackage{titlesec}
+
+\usepackage{setspace}
+\newcounter{mysection}
+\titleformat{\section}
+  {\centering\normalfont\fontsize{16}{16}\bfseries}{}{1em}{}
+\titleformat{\subsection}
+  {\normalfont\fontsize{14}{14}\bfseries}{\arabic{mysection}.\arabic{subsection}}{1em}{}
 
 \usepackage{tikz}
 \usepackage{verbatim}
