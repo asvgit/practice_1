@@ -1,4 +1,4 @@
-This is LuaTeX, Version beta-0.80.0 (TeX Live 2015) (rev 5238)  (format=lualatex 2017.2.14)  21 MAY 2018 21:16
+This is LuaTeX, Version beta-0.80.0 (TeX Live 2015) (rev 5238)  (format=lualatex 2017.2.14)  22 MAY 2018 23:25
  restricted \write18 enabled.
 **article.tex
 (./article.tex
@@ -409,7 +409,7 @@ luatexbase-attr: luatexbase.attributes["luaotfload@cursbase"] = 6
 luatexbase-attr: luatexbase.attributes["luaotfload@curscurs"] = 7
 luatexbase-attr: luatexbase.attributes["luaotfload@cursdone"] = 8
 luatexbase-attr: luatexbase.attributes["luaotfload@state"] = 9
-luaotfload | main : fontloader loaded in 0.030 seconds
+luaotfload | main : fontloader loaded in 0.028 seconds
 luatexbase-mcb: inserting 'luaotfload.node_processor'
 at position 1 in 'pre_linebreak_filter'
 luatexbase-mcb: inserting 'luaotfload.node_processor'
@@ -1823,7 +1823,7 @@ ist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><</usr/share/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmmi12.pfb><</usr/share/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmr10.pfb><</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pf
 b><</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on article.pdf (8 pages, 150586 bytes).
+Output written on article.pdf (8 pages, 150593 bytes).
 
 PDF statistics: 134 PDF objects out of 1000 (max. 8388607)
  107 compressed objects within 2 object streams
