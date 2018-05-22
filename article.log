@@ -1,4 +1,4 @@
-This is LuaTeX, Version beta-0.80.0 (TeX Live 2015) (rev 5238)  (format=lualatex 2017.2.14)  22 MAY 2018 23:25
+This is LuaTeX, Version beta-0.80.0 (TeX Live 2015) (rev 5238)  (format=lualatex 2017.2.14)  22 MAY 2018 23:41
  restricted \write18 enabled.
 **article.tex
 (./article.tex
@@ -409,7 +409,7 @@ luatexbase-attr: luatexbase.attributes["luaotfload@cursbase"] = 6
 luatexbase-attr: luatexbase.attributes["luaotfload@curscurs"] = 7
 luatexbase-attr: luatexbase.attributes["luaotfload@cursdone"] = 8
 luatexbase-attr: luatexbase.attributes["luaotfload@state"] = 9
-luaotfload | main : fontloader loaded in 0.028 seconds
+luaotfload | main : fontloader loaded in 0.031 seconds
 luatexbase-mcb: inserting 'luaotfload.node_processor'
 at position 1 in 'pre_linebreak_filter'
 luatexbase-mcb: inserting 'luaotfload.node_processor'
@@ -1707,6 +1707,13 @@ Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 17.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 17.
+
+Overfull \hbox (4.4051pt too wide) in paragraph at lines 19--20
+[][]\EU2/TimesNewRoman(0)/m/n/14.4 Со-глас-но опре-де-ле-ни
+ю, дан-но-му вы-да-ю-щем-ся учё-ным А.М. Ле-то-
+вым, сто-
+ []
+
 luaotfload | load : Lookup/name: "TimesNewRoman" -> "timesbd.ttf"
 Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 25.
@@ -1720,7 +1727,7 @@ Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 33.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 33.
- [4]
+[4]
 Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 33.
 Package babel Info: Redefining russian shorthand "~
@@ -1812,7 +1819,7 @@ Here is how much of LuaTeX's memory you used:
  415 words of node memory still in use:
    6 hlist, 2 vlist, 2 rule, 2 glue, 2 kern, 5 attribute, 48 glue_spec, 5 attrib
 ute_list, 1 write nodes
-   avail lists: 2:9622,3:85,4:612,5:437,6:3055,7:29,8:10,9:106,10:622
+   avail lists: 2:9596,3:85,4:612,5:432,6:3048,7:29,8:10,9:106,10:619
  48991 multiletter control sequences out of 65536+600000
  53 fonts using 9898895 bytes
  57i,8n,77p,1242b,367s stack positions out of 5000i,500n,10000p,200000b,100000s
@@ -1823,7 +1830,7 @@ ist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><</usr/share/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmmi12.pfb><</usr/share/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmr10.pfb><</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pf
 b><</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on article.pdf (8 pages, 150593 bytes).
+Output written on article.pdf (8 pages, 150589 bytes).
 
 PDF statistics: 134 PDF objects out of 1000 (max. 8388607)
  107 compressed objects within 2 object streams
