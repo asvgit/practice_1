@@ -1,4 +1,4 @@
-This is LuaTeX, Version beta-0.80.0 (TeX Live 2015) (rev 5238)  (format=lualatex 2017.2.14)  22 MAY 2018 23:41
+This is LuaTeX, Version beta-0.80.0 (TeX Live 2015) (rev 5238)  (format=lualatex 2017.2.14)  23 MAY 2018 21:22
  restricted \write18 enabled.
 **article.tex
 (./article.tex
@@ -409,7 +409,7 @@ luatexbase-attr: luatexbase.attributes["luaotfload@cursbase"] = 6
 luatexbase-attr: luatexbase.attributes["luaotfload@curscurs"] = 7
 luatexbase-attr: luatexbase.attributes["luaotfload@cursdone"] = 8
 luatexbase-attr: luatexbase.attributes["luaotfload@state"] = 9
-luaotfload | main : fontloader loaded in 0.031 seconds
+luaotfload | main : fontloader loaded in 0.029 seconds
 luatexbase-mcb: inserting 'luaotfload.node_processor'
 at position 1 in 'pre_linebreak_filter'
 luatexbase-mcb: inserting 'luaotfload.node_processor'
@@ -1714,103 +1714,103 @@ Overfull \hbox (4.4051pt too wide) in paragraph at lines 19--20
 вым, сто-
  []
 
-luaotfload | load : Lookup/name: "TimesNewRoman" -> "timesbd.ttf"
 Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 25.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 25.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 33.
+(babel)             in language  on input line 25.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 33.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 33.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 33.
+(babel)             in language  on input line 25.
 [4]
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 33.
+(babel)             in language  on input line 26.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 33.
-
-Overfull \hbox (11.04036pt too wide) in paragraph at lines 74--75
+(babel)             in language  on input line 26.
+luaotfload | load : Lookup/name: "TimesNewRoman" -> "timesbd.ttf"
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 34.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 34.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 65.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 65.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 65.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 65.
+ [5
+Missing character: There is no ∶ (U+2236) in font "TimesNewRoman:mode=node;scr
+ipt=latn;language=DFLT;+tlig;+trep;"!
+Missing character: There is no ∶ (U+2236) in font "TimesNewRoman:mode=node;scr
+ipt=latn;language=DFLT;+tlig;+trep;"!
+]
+Overfull \hbox (11.04036pt too wide) in paragraph at lines 75--76
 [][]\EU2/TimesNewRoman(0)/m/n/14.4 4. Под-де-ре-вья во-про-со
 в на-зы-ва-ют-ся кон-се-квен-та-ми или след-с
 тви-я-ми. След-
  []
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 76.
+(babel)             in language  on input line 77.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 76.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 80.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 80.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 80.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 80.
-[5
-Missing character: There is no ∶ (U+2236) in font "TimesNewRoman:mode=node;scr
-ipt=latn;language=DFLT;+tlig;+trep;"!
-Missing character: There is no ∶ (U+2236) in font "TimesNewRoman:mode=node;scr
-ipt=latn;language=DFLT;+tlig;+trep;"!
-]
-Overfull \hbox (10.54338pt too wide) in paragraph at lines 84--85
+(babel)             in language  on input line 77.
+
+Overfull \hbox (10.54338pt too wide) in paragraph at lines 85--86
 [][]\EU2/TimesNewRoman(0)/m/n/14.4 Так-же сто-ит от-ме-тить, 
 что в ИД-СТУ СО РАН ла-бо-ра-то-рия Информац
 ионно-
  []
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 86.
+(babel)             in language  on input line 87.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 86.
+(babel)             in language  on input line 87.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 91.
+(babel)             in language  on input line 92.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 91.
+(babel)             in language  on input line 92.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 91.
+(babel)             in language  on input line 92.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 91.
+(babel)             in language  on input line 92.
 [6]
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 92.
+(babel)             in language  on input line 93.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 92.
+(babel)             in language  on input line 93.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 96.
+(babel)             in language  on input line 97.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 96.
+(babel)             in language  on input line 97.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 96.
+(babel)             in language  on input line 97.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 96.
+(babel)             in language  on input line 97.
  [7]
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 98.
+(babel)             in language  on input line 99.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 98.
+(babel)             in language  on input line 99.
 luaotfload | load : Lookup/name: "CourierNew" -> "cour.ttf"
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 105.
+(babel)             in language  on input line 106.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 105.
+(babel)             in language  on input line 106.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 105.
+(babel)             in language  on input line 106.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 105.
+(babel)             in language  on input line 106.
  [8]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 105.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 105.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 106.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 106.
  (./article.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 105.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 105.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 106.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 106.
 Package rerunfilecheck Info: File `article.out' has not changed.
-(rerunfilecheck)             Checksum: 70D720599D9588D0D57BDB5312E5C5ED;1281.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 105.
+(rerunfilecheck)             Checksum: 093DDC9742C0842507BCFC1E9CEBACEC;1360.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 106.
 )
 
 Here is how much of LuaTeX's memory you used:
@@ -1819,7 +1819,7 @@ Here is how much of LuaTeX's memory you used:
  415 words of node memory still in use:
    6 hlist, 2 vlist, 2 rule, 2 glue, 2 kern, 5 attribute, 48 glue_spec, 5 attrib
 ute_list, 1 write nodes
-   avail lists: 2:9596,3:85,4:612,5:432,6:3048,7:29,8:10,9:106,10:619
+   avail lists: 2:8526,3:85,4:602,5:418,6:2730,7:29,8:10,9:100,10:505
  48991 multiletter control sequences out of 65536+600000
  53 fonts using 9898895 bytes
  57i,8n,77p,1242b,367s stack positions out of 5000i,500n,10000p,200000b,100000s
@@ -1830,7 +1830,7 @@ ist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><</usr/share/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmmi12.pfb><</usr/share/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmr10.pfb><</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pf
 b><</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on article.pdf (8 pages, 150589 bytes).
+Output written on article.pdf (8 pages, 150459 bytes).
 
 PDF statistics: 134 PDF objects out of 1000 (max. 8388607)
  107 compressed objects within 2 object streams
